@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn>=0.27
+pydantic>=2.6
+numpy>=1.26
+rank-bm25>=0.2.2
+sentence-transformers>=3.0   # 可选：不装则自动关闭向量通道，纯 BM25 运行
+openai>=1.14                 # 可选：/ask 生成用

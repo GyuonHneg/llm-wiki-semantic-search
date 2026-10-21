@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+*.pkl
+config.yaml
+.env
+.DS_Store
+vault/
